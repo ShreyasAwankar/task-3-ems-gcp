@@ -2,7 +2,7 @@
 
 # Employee Management System
 
-The Employee Management System is a simple CLI application designed to
+The Employee Management System is a simple application designed to
 manage employee information within an organisation. It has four employee
 positions - admin, manager, developer and tester. It allows you to
 perform essential Admin tasks including adding new
